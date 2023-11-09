@@ -1,0 +1,21 @@
+.home-layout {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.home-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.home-logo {
+    height: 50vh;
+    width: 40vw;
+}
+

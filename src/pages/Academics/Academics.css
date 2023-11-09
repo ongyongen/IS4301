@@ -1,0 +1,29 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.academics-container {
+    display: flex;
+    flex-direction: row;
+} 
+
+table {
+    width: 40vw;
+}
+
+th {
+    background-color: orange;
+}
+
+th, td {
+    padding: 2%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+

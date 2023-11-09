@@ -1,0 +1,16 @@
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 10vh;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 2vh;
+}
+
+
