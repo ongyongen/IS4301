@@ -1,0 +1,17 @@
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+}
+
+label {
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+
+input {
+    padding: 2%;
+}
+
+
